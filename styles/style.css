@@ -89,8 +89,10 @@ body {
   text-decoration: none;
   color: var(--white);
 }
-.title-link:hover:focus,
-.name-link:hover:focus {
+.title-link:hover,
+.title-link:focus,
+.name-link:hover,
+.name-link:focus {
   color: var(--cyan);
   transition: color 0.2s ease;
 }
