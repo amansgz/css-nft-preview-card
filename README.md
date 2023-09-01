@@ -1,11 +1,4 @@
-# 👩‍💻 Frontend Mentor - NFT preview card component
-
-[Frontend Mentor challenges](https://www.frontendmentor.io/) help you improve your coding skills by building realistic projects.
-
-This is a solution for [Nft Preview Card Component](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U) challenge.
-
-![challenge](https://github.com/amansgz/css-nft-preview-card/assets/133540994/dc1a9b0c-1150-4f48-be8a-26b383464d4c)
-
+# 👩‍💻 NFT preview card component
 
 ## The challenge
 
@@ -23,10 +16,19 @@ Users should be able to:
 - Flexbox
 - Mobile-first workflow
 
-## Live site solution
 
-[Live site](https://amansgz.github.io/css-nft-preview-card/) deployed with GitHub Pages.
+<div>
+  <h3>
+    <a href= "https://amansgz.github.io/css-nft-preview-card/">
+      Live site
+    </a>
+    <span> | </span>
+    <a href= "https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U">
+      Challenge
+    </a>
+  </h3>
+</div>
 
-## Author
+![challenge](https://github.com/amansgz/css-nft-preview-card/assets/133540994/dc1a9b0c-1150-4f48-be8a-26b383464d4c)
 
-- Frontend Mentor - [@amansgz](https://www.frontendmentor.io/profile/amansgz)
+This application/site was created as a submission to <a href= "https://www.frontendmentor.io/">Frontend Mentor Challenges</a> 
